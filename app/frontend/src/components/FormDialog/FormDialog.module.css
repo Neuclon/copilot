@@ -1,0 +1,40 @@
+.container {
+    
+    display: flex;
+    margin-top: 20px;
+    
+}
+
+.terms_privacy_copyright_row {
+    position: fixed; 
+    bottom: 0;
+    display: flex;
+    margin-top: 60px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.terms_privacy {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.copyright {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.h1_labels{
+    color:cornflowerblue
+   }
+.search {
+    margin-left: 80px;
+    margin-top: 20px;
+    
+}
+.ai {
+   
+    margin-top: 20px;
+}
